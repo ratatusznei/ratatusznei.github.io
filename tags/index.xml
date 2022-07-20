@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Blog</title>
+        <link>http://fera.tec.br/tags/</link>
+        <description>Tags - Tag - Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>fernandoratusznei@hotmail.com (Fernando)</managingEditor>
+            <webMaster>fernandoratusznei@hotmail.com (Fernando)</webMaster><atom:link href="http://fera.tec.br/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>

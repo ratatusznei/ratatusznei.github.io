@@ -1,0 +1,26 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Blog</title>
+        <link>http://fera.tec.br/posts/</link>
+        <description>All Posts | Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>fernandoratusznei@hotmail.com (Fernando)</managingEditor>
+            <webMaster>fernandoratusznei@hotmail.com (Fernando)</webMaster><lastBuildDate>Mon, 04 Jul 2022 19:49:24 -0300</lastBuildDate><atom:link href="http://fera.tec.br/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Microphone test</title>
+    <link>http://fera.tec.br/posts/mictest/</link>
+    <pubDate>Mon, 04 Jul 2022 19:49:24 -0300</pubDate><author>
+        <name>Fernando</name>
+    </author><guid>http://fera.tec.br/posts/mictest/</guid>
+    <description><![CDATA[<blockquote>
+<p>Post migrated from old website, may have some bugs&hellip; :(</p>
+</blockquote>]]></description>
+</item><item>
+    <title>Laughter Page</title>
+    <link>http://fera.tec.br/posts/pagina-de-risadas/</link>
+    <pubDate>Mon, 04 Jul 2022 18:38:00 -0300</pubDate><author>
+        <name>Fernando</name>
+    </author><guid>http://fera.tec.br/posts/pagina-de-risadas/</guid>
+    <description><![CDATA[<blockquote>
+<p>Post migrated from old website, may have some bugs&hellip; :(</p>
+</blockquote>]]></description>
+</item></channel>
+</rss>
